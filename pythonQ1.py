@@ -1,0 +1,12 @@
+dan = int (input("숫자를 입력 해주세요 : "))
+print(dan, "단입니다")
+print ("a x 1 = ", {dan*1})
+print ("a x 2 = ", {dan*2})
+print ("a x 3 = ", {dan*3})
+print ("a x 4 = ", {dan*4})
+print ("a x 5 = ", {dan*5})
+print ("a x 6 = ", {dan*6})
+print ("a x 7 = ", {dan*7})
+print ("a x 8 = ", {dan*8})
+print ("a x 9 = ", {dan*9}) 
+
